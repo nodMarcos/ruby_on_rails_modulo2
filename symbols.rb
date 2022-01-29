@@ -1,0 +1,11 @@
+puts "Marquin".object_id
+puts "Marquin".object_id
+puts "Marquin".object_id
+puts "Marquin".object_id
+puts "Marquin".object_id
+puts "=========================="
+puts :Marquin.object_id
+puts :Marquin.object_id
+puts :Marquin.object_id
+puts :Marquin.object_id
+puts :Marquin.object_id
